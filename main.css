@@ -1,0 +1,196 @@
+.logo {
+  width: 146px;
+  height: 30px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.x {
+  position: absolute;
+  left: 257px;
+  top: -29px;
+  font-size: 30px;
+}
+
+.blackblock {
+  position: absolute;
+  width: 720px;
+  height: 515px;
+  background-color: black;
+  right: 145px;
+  top: 70px;
+}
+
+.date {
+  position: absolute;
+  top: 153px;
+  right: 665px;
+  z-index: 1;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+}
+.lifestyle {
+  position: absolute;
+  color: WHITE;
+  top: 158px;
+  right: 310px;
+  z-index: 1;
+  font-size: 13px;
+}
+
+.pr {
+  position: absolute;
+  color: WHITE;
+  right: 389px;
+  top: 232px;
+  font-size: 23px;
+}
+.text {
+  position: absolute;
+  color: WHITE;
+  right: 290px;
+  top: 299px;
+  font-size: 13px;
+}
+.button{
+    width: 180px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    border: 1px solid white;
+    right: 588px;
+    top: 400px;
+    position: absolute;
+}
+
+.pm{
+    position: absolute;
+    left: 210px;
+    width: 655px;
+    height: 515px;
+    top: 70px;
+}
+
+.wmenu{
+    
+    width: 313px;
+    height: 310px;
+    position: absolute;
+    z-index: 1;
+    left: 255px;
+    top: 70px;
+    background-color: white;
+}
+
+
+.he{
+  color: black;
+  position: absolute;
+  left: 60px;
+  top: 35px;
+}
+
+.ps{
+  color: black;
+  position: absolute;
+  left: 60px;
+  top: 67px;
+}
+.cs{
+  color: black;
+  position: absolute;
+  left:60px;
+  top: 103px;
+}
+.at{
+  color: black;
+  position: absolute;
+  left:60px;
+  top: 139px;
+}
+.og{
+  color: black;
+  position: absolute;
+  left:60px;
+  top: 173px;
+}
+.mp{
+  color: black;
+  position: absolute;
+  left:60px;
+  top: 209px;
+}
+.cr{
+  color: black;
+  position: absolute;
+  left:60px;
+  top: 241px;
+}
+.fd{
+  position: absolute;
+  bottom: 237px;
+  left: 344px;
+}
+
+.man1{
+  position: absolute;
+  bottom: -112px;
+  left: 345px;
+  width: 507px;
+}
+
+.man2{
+  position: absolute;
+  bottom: -112px;
+  right: 346px;
+  width: 507px;
+}
+
+.date1{
+  position: absolute;
+  bottom: -162px;
+  font-size: 12px;
+  right: 770px;
+}
+.date2{
+  position: absolute;
+  bottom: -162px;
+  font-size: 12px;
+  left: 346px;
+}
+.lifestyle1{
+  position: absolute;
+  color: rgb(0, 0, 0);
+  bottom: -162px;
+  left: 797px;
+  font-size: 10px;
+}
+.lifestyle2{
+  position: absolute;
+  color: rgb(0, 0, 0);
+  bottom: -162px;
+  right: 338px;
+  font-size: 10px;
+}
+
+.lorem1{
+  position: absolute;
+  bottom: -262px;
+  color: black;
+  font-size: 23px;
+  width: 500px;
+  left: 344px;
+}
+
+.lorem2{
+  position: absolute;
+  bottom: -262px;
+  color: black;
+  font-size: 23px;
+  width: 500px;
+  right: 350px;
+}
